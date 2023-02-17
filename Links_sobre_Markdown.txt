@@ -1,0 +1,5 @@
+Sites Úteis de dicas sobre markdown:
+https://www.markdownguide.org/basic-syntax/
+https://markdown.net.br/sintaxe-basica/
+https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
+
